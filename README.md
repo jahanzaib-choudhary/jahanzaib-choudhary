@@ -1,121 +1,393 @@
-<h1 align="center">Hey 👋, I'm Jahanzaib Ali</h1>
+<div align="center">
 
-<h3 align="center">Senior Full-Stack Developer from Pakistan 🇵🇰</h3>
+# 👋 Hey, I'm Jahanzaib Ali
 
-<p align="center">
+### 🚀 Senior Full-Stack Developer · Laravel · PHP · React · Next.js · Vue.js
+
+<p>
+  <em>Turning ideas, business problems & complex requirements into clean, scalable software.</em>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/jahanzaib-php/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ch.jahanzaib0300@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://github.com/jahanzaib-choudhary">
-    <img src="https://komarev.com/ghpvc/?username=jahanzaib-choudhary&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-  <strong>5+ years of experience building scalable web applications, APIs, SaaS platforms and business automation systems.</strong>
-</p>
+<img src="https://komarev.com/ghpvc/?username=jahanzaib-choudhary&label=Profile%20Views&color=58A6FF&style=flat-square" />
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm a **Senior Full-Stack Developer** focused on building reliable, scalable and user-friendly web applications.
+I'm a **Senior Full-Stack Developer** with **5+ years of experience** building web applications, APIs, SaaS platforms, dashboards, management systems and business automation solutions.
 
-I work across the full development lifecycle — from designing databases and building REST APIs to creating modern frontend interfaces and deploying production-ready applications.
+I enjoy taking a problem from:
 
-* 🚀 Building scalable **Laravel & PHP applications**
-* ⚛️ Developing modern interfaces with **React, Next.js & Vue.js**
-* 🔌 Designing and integrating **REST APIs**
-* 🗄️ Working with **MySQL & relational databases**
-* 🤖 Building **automation and business solutions**
-* 🛠️ Comfortable with Linux, Git, GitHub and modern development workflows
-* 💡 Interested in SaaS products, developer tools and solving real-world business problems
+**💭 "We need a system for this..."**
 
----
+to
 
-## 🧰 Tech Stack
+**🚀 "It's actually working."**
 
-### Backend
+My work usually sits at the intersection of **backend engineering, frontend development, databases, APIs, automation and real-world business workflows.**
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+```javascript
+const jahanzaib = {
+    role: "Senior Full-Stack Developer",
+    experience: "5+ years",
+    location: "Pakistan 🇵🇰",
 
-### Frontend
+    backend: [
+        "PHP",
+        "Laravel",
+        "REST APIs",
+        "MySQL"
+    ],
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vue.js\&logoColor=4FC08D)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+    frontend: [
+        "React",
+        "Next.js",
+        "Vue.js",
+        "JavaScript"
+    ],
 
-### Database & Tools
+    tools: [
+        "Git",
+        "GitHub",
+        "Linux",
+        "Postman",
+        "Vite"
+    ],
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+    automation: [
+        "Python",
+        "Playwright",
+        "Web Scraping",
+        "Browser Automation"
+    ],
 
----
+    interests: [
+        "SaaS",
+        "Business Automation",
+        "Developer Tools",
+        "Data Systems"
+    ],
 
-## 🚀 What I Build
-
-```text
-🌐 Full-Stack Web Applications
-⚡ REST APIs & Backend Systems
-📊 Admin Panels & Dashboards
-💼 SaaS & Business Applications
-🤖 Automation & Data Solutions
-🔐 Authentication & Role-Based Systems
-🗄️ Database-Driven Applications
+    motto: "Build useful things. Ship them. Improve them. 🚀"
+};
 ```
 
 ---
 
-## 📌 Featured Projects
+# ⚡ What I Build
 
-### 🧩 Business & SaaS Applications
+<table>
+<tr>
+<td width="50%">
 
-Building practical applications that solve real business problems — including dashboards, CRM systems, lead management platforms and automation tools.
+### 🧠 Backend Systems
 
-### 🕷️ Web Scraping & Automation
+* PHP & Laravel applications
+* RESTful APIs
+* Authentication & authorization
+* MySQL database architecture
+* Admin panels
+* Business logic
+* Third-party integrations
 
-Developing automation solutions using **Python, Playwright and browser automation** for structured data extraction and repetitive workflows.
+</td>
 
-### ⚡ Modern Web Development
+<td width="50%">
 
-Creating responsive and performant interfaces using **React, Next.js, Vue.js, Tailwind CSS and JavaScript**, backed by Laravel/PHP APIs.
+### 🎨 Modern Frontends
+
+* React
+* Next.js
+* Vue.js
+* JavaScript
+* Tailwind CSS
+* Bootstrap
+* Responsive interfaces
+* Interactive dashboards
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 Automation & Data
+
+* Web scraping
+* Browser automation
+* Playwright
+* Data extraction
+* Lead generation systems
+* Workflow automation
+* API integrations
+
+</td>
+
+<td width="50%">
+
+### 🚀 Business Applications
+
+* CRM systems
+* POS systems
+* Management platforms
+* SaaS applications
+* Business dashboards
+* Internal tools
+* Custom software solutions
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+# 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jahanzaib-choudhary&show_icons=true&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahanzaib-choudhary&layout=compact&hide_border=true" height="170" />
+### 💻 Languages & Frameworks
+
+<p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jahanzaib-choudhary&hide_border=true" />
+### 🎨 Frontend & UI
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+</p>
+
+### 🗄️ Database & Development
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+</p>
+
+### 🤖 Automation
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
+# 🌟 Featured Projects
 
-<p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+> I don't just build demos. I like building systems around **real business workflows and real problems.**
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏫 School Management System
+
+A complete management platform designed to organize school operations, students, staff, academic workflows and administrative processes.
+
+**Stack:**
+`Laravel` `PHP` `MySQL` `JavaScript`
+
+</td>
+
+<td width="50%">
+
+### 🍽️ Restaurant Management System
+
+A business-focused platform designed to manage restaurant operations, orders, menu items, inventory, payments and reporting.
+
+**Stack:**
+`Laravel` `PHP` `MySQL` `JavaScript`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🐄 Dairy Farm Management System
+
+A management and operations platform for organizing livestock, production, inventory, expenses and day-to-day farm activities.
+
+**Stack:**
+`Laravel` `PHP` `MySQL` `Dashboard`
+
+</td>
+
+<td width="50%">
+
+### 🎯 Lead Management System
+
+A CRM-style platform for managing contacts, notes, email templates, qualification status, follow-ups and outreach workflows.
+
+**Stack:**
+`Laravel` `PHP` `MySQL` `CRM` `REST API`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🛒 Grocery POS System
+
+A point-of-sale and inventory solution supporting quantity/price-based sales, credit payments, stock tracking, transfers and reporting.
+
+**Stack:**
+`Laravel` `PHP` `MySQL` `PWA` `POS`
+
+</td>
+
+<td width="50%">
+
+### 🗺️ Lead Finder & Data Extraction
+
+A business lead discovery and data extraction workflow designed to find businesses, collect structured information and organize prospects for outreach.
+
+**Stack:**
+`Python` `Playwright` `Web Scraping` `Automation`
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧠 Other Things I've Built
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│  🌐 Full-Stack Web Applications                     │
+│  ⚡ REST APIs & Backend Systems                      │
+│  📊 Admin Panels & Business Dashboards              │
+│  🎯 CRM & Lead Management                            │
+│  🛒 POS & Inventory Systems                          │
+│  🐄 Farm Management & Operations                    │
+│  🏫 Education Management                             │
+│  🍽️ Restaurant Operations                           │
+│  🤖 Web Automation & Scraping                        │
+│  🔎 Data Extraction & Lead Generation               │
+│  🔗 Third-Party API Integrations                     │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🔥 My Development Philosophy
+
+```text
+          PROBLEM
+             │
+             ▼
+      Understand It
+             │
+             ▼
+       Design Solution
+             │
+             ▼
+        Build Cleanly
+             │
+             ▼
+      Test & Optimize
+             │
+             ▼
+           SHIP 🚀
+             │
+             ▼
+       Keep Improving
+```
+
+I care about software being:
+
+**Clean · Fast · Maintainable · Scalable · Practical**
+
+Because working code is good.
+
+**Useful working code is better.**
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jahanzaib-choudhary&show_icons=true&hide_border=true&count_private=true&rank_icon=github" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahanzaib-choudhary&layout=compact&hide_border=true" height="165" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=jahanzaib-choudhary&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/jahanzaib-choudhary/jahanzaib-choudhary/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+# 🤝 Let's Build Something
+
+Have an idea, business problem, SaaS concept or project that needs a developer?
+
+### Let's turn it into something real. 🚀
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jahanzaib-php/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ch.jahanzaib0300@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-  <i>Building useful things with code. One project at a time. 🚀</i>
-</p>
+<br>
+
+<div align="center">
+
+### `Code → Build → Ship → Repeat. ⚡`
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Built with curiosity, caffeine & way too many browser tabs. ☕💻</sub>
+
+</div>
