@@ -83,7 +83,7 @@ My main focus is **Laravel + PHP**, while building modern frontend experiences w
 
 # 🌟 Things I've Built
 
-> Real-world systems > random demo projects. 🚀
+> **Real-world systems > random demo projects.** 🚀
 
 ### 🏫 School Management System
 
@@ -91,15 +91,11 @@ A complete platform for managing students, staff, academics and day-to-day schoo
 
 `Laravel` `PHP` `MySQL`
 
----
-
 ### 🍽️ Restaurant Management System
 
 A business management platform for orders, menus, inventory, payments and reporting.
 
 `Laravel` `PHP` `MySQL`
-
----
 
 ### 🐄 Dairy Farm Management System
 
@@ -107,23 +103,17 @@ A management platform covering livestock, production, inventory, expenses and da
 
 `Laravel` `PHP` `MySQL`
 
----
-
 ### 🎯 Lead Management System
 
 A CRM-style system for contacts, notes, email templates, qualification, follow-ups and outreach workflows.
 
 `Laravel` `PHP` `MySQL` `REST API`
 
----
-
 ### 🛒 Grocery POS System
 
 A POS and inventory solution supporting sales, credit payments, stock tracking, transfers and reporting.
 
 `Laravel` `PHP` `MySQL` `PWA`
-
----
 
 ### 🗺️ Lead Finder & Automation
 
@@ -153,11 +143,9 @@ Repeat 🔁
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Activity
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jahanzaib-choudhary&show_icons=true&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats">
 
 <img src="https://streak-stats.demolab.com?user=jahanzaib-choudhary&hide_border=true" alt="GitHub Streak">
 
