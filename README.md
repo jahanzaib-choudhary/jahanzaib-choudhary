@@ -1,34 +1,121 @@
-<h1 align="center">Hi 👋, I'm Jahanzaib Ali</h1>
-<h3 align="center">A Passionate FullStack Developer From Pakistan</h3>
-<img align="right" alt="Coding" width"400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center">Hey 👋, I'm Jahanzaib Ali</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jahanzaib-choudhary&label=Profile%20views&color=0e75b6&style=flat" alt="jahanzaib-choudhary" /> </p>
+<h3 align="center">Senior Full-Stack Developer from Pakistan 🇵🇰</h3>
 
-- 🌱 I’m currently learning **Vue,Laravel**
-
-- 💬 Ask me about **Vue,Laravel**
-
-- 📫 How to reach me **ch.jahanzaib0300@gmail.com**
-
-- ⚡ Fun fact **Passionate Learner**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/choudhary jahanzaib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="choudhary jahanzaib" height="30" width="40" /></a>
-<a href="https://fb.com/choudhary jahanzaib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="choudhary jahanzaib" height="30" width="40" /></a>
-<a href="https://instagram.com/choudhary.jahanzaib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="choudhary.jahanzaib" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/jahanzaib-choudhary">
+    <img src="https://komarev.com/ghpvc/?username=jahanzaib-choudhary&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jahanzaib-choudhary&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jahanzaib-choudhary&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jahanzaib-choudhary&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <strong>5+ years of experience building scalable web applications, APIs, SaaS platforms and business automation systems.</strong>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jahanzaib-choudhary&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I'm a **Senior Full-Stack Developer** focused on building reliable, scalable and user-friendly web applications.
+
+I work across the full development lifecycle — from designing databases and building REST APIs to creating modern frontend interfaces and deploying production-ready applications.
+
+* 🚀 Building scalable **Laravel & PHP applications**
+* ⚛️ Developing modern interfaces with **React, Next.js & Vue.js**
+* 🔌 Designing and integrating **REST APIs**
+* 🗄️ Working with **MySQL & relational databases**
+* 🤖 Building **automation and business solutions**
+* 🛠️ Comfortable with Linux, Git, GitHub and modern development workflows
+* 💡 Interested in SaaS products, developer tools and solving real-world business problems
+
+---
+
+## 🧰 Tech Stack
+
+### Backend
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vue.js\&logoColor=4FC08D)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+
+### Database & Tools
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+---
+
+## 🚀 What I Build
+
+```text
+🌐 Full-Stack Web Applications
+⚡ REST APIs & Backend Systems
+📊 Admin Panels & Dashboards
+💼 SaaS & Business Applications
+🤖 Automation & Data Solutions
+🔐 Authentication & Role-Based Systems
+🗄️ Database-Driven Applications
+```
+
+---
+
+## 📌 Featured Projects
+
+### 🧩 Business & SaaS Applications
+
+Building practical applications that solve real business problems — including dashboards, CRM systems, lead management platforms and automation tools.
+
+### 🕷️ Web Scraping & Automation
+
+Developing automation solutions using **Python, Playwright and browser automation** for structured data extraction and repetitive workflows.
+
+### ⚡ Modern Web Development
+
+Creating responsive and performant interfaces using **React, Next.js, Vue.js, Tailwind CSS and JavaScript**, backed by Laravel/PHP APIs.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jahanzaib-choudhary&show_icons=true&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahanzaib-choudhary&layout=compact&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jahanzaib-choudhary&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ch.jahanzaib0300@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Building useful things with code. One project at a time. 🚀</i>
+</p>
